@@ -4,7 +4,7 @@ site_name = "RL Workshop"
 # site_description = "Your project description"
 # site_author = "Your name"
 
-# copyright = "Copyright &copy; 2026 Your name"
+copyright = "Copyright &copy; 2026 Your name"
 
 # repo_url = "https://github.com/user/repo"
 # repo_name = "user/repo"
